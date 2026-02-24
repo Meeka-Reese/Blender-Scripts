@@ -7,4 +7,4 @@ Hi, this is just a short little script to help you export your Blender Weight Pa
 4. Set a Directory
 
    
-[![Youtube Demo](Thumbnail.png)](https://www.youtube.com/watch?v=hkUh3T06kCU&t=20s)
+[![Youtube Demo](Thumb.png)](https://www.youtube.com/watch?v=hkUh3T06kCU&t=20s)
